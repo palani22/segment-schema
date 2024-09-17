@@ -46,5 +46,5 @@ This project allows users to create and manage user segments by adding dynamic s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/segment-management.git
+   git clone https://github.com/palani22/segment-schema.git
 
