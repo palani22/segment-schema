@@ -59,7 +59,7 @@ const SegmentSidebar = ({ closeSegmentSidebar }) => {
         };
 
         const corsProxy = 'https://thingproxy.freeboard.io/fetch/';
-        const webhookUrl = 'https://webhook.site/84dd178e-6b84-4d59-9b53-192a7b1b693f';
+        const webhookUrl = 'https://webhook.site/4202a456-bd47-41fb-ad31-755f067e8d66';
 
         try {
             const response = await fetch(corsProxy + webhookUrl, {
